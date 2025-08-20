@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+torch
+matplotlib
+seaborn
+transformers
+google-play-scraper
+wordcloud
+nltk
